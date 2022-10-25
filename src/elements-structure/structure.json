@@ -1,0 +1,50 @@
+[
+  {
+    "type": "textbox",
+    "code": "number",
+    "alias": "1",
+    "title": "Номер:"
+  },
+  {
+    "type": "datechooser",
+    "code": "date",
+    "alias": "1",
+    "title": "Дата:"
+  },
+  {
+    "type": "datechooser",
+    "code": "date_exec",
+    "alias": "1",
+    "title": "Дата проводки:"
+  },
+  {
+    "type": "textbox",
+    "code": "account1",
+    "alias": "1",
+    "title": "Счет отправителя:"
+  },
+  {
+    "type": "textbox",
+    "code": "corr1_n",
+    "alias": "1",
+    "title": "Наименование отправителя:"
+  },
+  {
+    "type": "textbox",
+    "code": "corr2_n",
+    "alias": "2",
+    "title": "Корреспондент:"
+  },
+  {
+    "type": "textbox",
+    "code": "inc_n",
+    "alias": "2",
+    "title": "Наим. дохода:"
+  },
+  {
+    "type": "grid",
+    "code": "",
+    "alias": "2",
+    "title": ""
+  }
+]

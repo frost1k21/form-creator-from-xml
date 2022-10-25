@@ -1,0 +1,25 @@
+{
+  "header": [
+    "Номер",
+    "Сумма",
+    "Счет получателя",
+    "Дт",
+    "Кт"
+  ],
+  "body": [
+    {
+      "index": 1,
+      "sum": "0.00",
+      "account": null,
+      "dt": null,
+      "kt": null
+    },
+    {
+      "index": 2,
+      "sum": "0.00",
+      "account": null,
+      "dt": null,
+      "kt": null
+    }
+  ]
+}
